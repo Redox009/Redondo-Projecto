@@ -1,27 +1,27 @@
 
 
 [
-{
-    "titulo": "Avengers" ,
-    descripcion":  ,
-    "imagen": "Avengers.png" ,
-    "id": 1  
-},
-{
-    "titulo": "Ultron" ,
-    descripcion": lorem ,
-    "imagen": "Ultron.png" ,
-    "id": 2 
-},
-{
-    "titulo": "Endgame" ,
-    descripcion": lorem ,
-    "imagen": "Endgame.png" ,
-    "id": 3  
-}
+    {
+        "titulo": "Avengers" ,
+        "descripcion": "lorem"  ,
+        "imagen": "Avengers.png" ,
+        "id": 1  
+    },
+    {
+        "titulo": "Ultron" ,
+        "descripcion": "lorem" ,
+        "imagen": "Ultron.png" ,
+        "id": 2 
+    },
+    {
+        "titulo": "Endgame" ,
+       "descripcion": "lorem" ,
+        "imagen": "Endgame.png" ,
+        "id": 3  
+    }
 ]
-
-
+    
+  
 
 
 
